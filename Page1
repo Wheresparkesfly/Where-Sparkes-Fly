@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Where Sparkes Fly</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+      background: #f5f5f5;
+    }
+    h1 { color: #333; }
+    p { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Where Sparkes Fly</h1>
+  <p>Our website is currently under construction.</p>
+  <p>Custom laser engraving coming soon!</p>
+</body>
+</html>
